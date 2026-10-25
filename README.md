@@ -40,3 +40,25 @@ File input and output
 Maps and strings
 
 GitHub
+
+CS 255: Systems Analysis and Design — DriverPass Project Reflection
+
+Project Summary
+
+The DriverPass project involved designing a web-based system for a driving training company that wanted to help customers prepare for their DMV driving tests. The client was DriverPass, and the owner, Liam, wanted a system that would make it easier to manage customers, driving lesson appointments, training packages, and student progress. The proposed system allows customers to register for accounts, schedule or change driving lessons, access online classes and practice tests when included in their package, and review their progress. Employees can manage appointments, customer records, drivers, vehicles, packages, and reports. The system also needs to receive updates from the DMV so the training information stays current.
+
+What I Did Particularly Well
+
+I think I did well identifying the client's needs and organizing them into clear requirements for the system. In the Business Requirements Document, I described the system's functional and nonfunctional requirements, including appointment scheduling, user permissions, security, and offline access to stored information. In the System Design Document, I used UML diagrams to help explain how users interact with the system and how its parts work together. I also included technical requirements for hardware, software, networking, security, and maintenance. These details helped connect the client's business needs to a proposed system design.
+
+What I Would Revise
+
+If I could revise one part of my work, I would improve the explanations that connect the UML diagrams to the written system requirements. I would make sure each diagram is clearly labeled and that the actors, activities, and system processes are explained in enough detail for someone who is not familiar with the project. I would also review the requirements and diagrams together to make sure they are consistent. These improvements would make the documents easier to understand and help developers use them as a guide when building the system.
+
+Interpreting and Implementing the User's Needs
+
+I interpreted the user's needs by focusing on the problems DriverPass wanted to solve, such as managing driving appointments, tracking student progress, organizing training packages, and keeping DMV information up to date. I translated these needs into functional requirements, such as allowing customers and the secretary to schedule lessons, assigning drivers and vehicles, and recording practice test scores. I also considered nonfunctional requirements, including security, accuracy, availability, and ease of use. Considering user needs is important because a system should solve the client's actual problems rather than simply provide features that developers think would be useful. Understanding those needs helps prevent misunderstandings, reduces unnecessary work, and results in a system that users can rely on.
+
+My Approach to Software Design
+
+My approach to software design is to understand the problem first, gather requirements, identify the users and their responsibilities, and then organize the information before designing the system. I would use interviews, requirement lists, use case diagrams, activity diagrams, sequence diagrams, and class diagrams to understand both what the system needs to do and how its parts interact. I would also review the design with the client, test important scenarios, and revise the design based on feedback. In future projects, I plan to continue using these techniques because they help identify problems early, communicate ideas clearly, and keep the final system focused on the user's needs.
